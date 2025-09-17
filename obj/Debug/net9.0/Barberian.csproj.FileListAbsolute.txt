@@ -1,0 +1,14 @@
+c:\Users\johny\Projects\Barberian\bin\Debug\net9.0\Barberian.exe
+C:\Users\johny\Projects\Barberian\bin\Debug\net9.0\Barberian.deps.json
+C:\Users\johny\Projects\Barberian\bin\Debug\net9.0\Barberian.runtimeconfig.json
+c:\Users\johny\Projects\Barberian\bin\Debug\net9.0\Barberian.dll
+c:\Users\johny\Projects\Barberian\bin\Debug\net9.0\Barberian.pdb
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.AssemblyInfoInputs.cache
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.AssemblyInfo.cs
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.csproj.CoreCompileInputs.cache
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.dll
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\refint\Barberian.dll
+c:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.pdb
+C:\Users\johny\Projects\Barberian\obj\Debug\net9.0\Barberian.genruntimeconfig.cache
+C:\Users\johny\Projects\Barberian\obj\Debug\net9.0\ref\Barberian.dll

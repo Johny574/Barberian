@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Barberian",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Barberian.csproj",
+            "launchConfigurationId": "TargetFramework=;Barberian"
+        }
+    ]
+}

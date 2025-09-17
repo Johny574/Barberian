@@ -1,0 +1,5 @@
+c:\Users\johny\Projects\Barberian\obj\Debug\net48\Barberian.csproj.AssemblyReference.cache
+c:\Users\johny\Projects\Barberian\obj\Debug\net48\Barberian.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\johny\Projects\Barberian\obj\Debug\net48\Barberian.AssemblyInfoInputs.cache
+c:\Users\johny\Projects\Barberian\obj\Debug\net48\Barberian.AssemblyInfo.cs
+c:\Users\johny\Projects\Barberian\obj\Debug\net48\Barberian.csproj.CoreCompileInputs.cache
